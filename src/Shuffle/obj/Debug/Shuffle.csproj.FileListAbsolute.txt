@@ -1,0 +1,5 @@
+C:\Projects\Shuffle\src\Shuffle\bin\Debug\Shuffle.dll
+C:\Projects\Shuffle\src\Shuffle\bin\Debug\Shuffle.pdb
+C:\Projects\Shuffle\src\Shuffle\obj\Debug\Shuffle.csprojResolveAssemblyReference.cache
+C:\Projects\Shuffle\src\Shuffle\obj\Debug\Shuffle.dll
+C:\Projects\Shuffle\src\Shuffle\obj\Debug\Shuffle.pdb

@@ -1,0 +1,9 @@
+C:\Projects\Shuffle\src\Shuffle.Tests\bin\Debug\Shuffle.Tests.dll
+C:\Projects\Shuffle\src\Shuffle.Tests\bin\Debug\Shuffle.Tests.pdb
+C:\Projects\Shuffle\src\Shuffle.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Shuffle\src\Shuffle.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\Shuffle\src\Shuffle.Tests\obj\Debug\Shuffle.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Shuffle\src\Shuffle.Tests\obj\Debug\Shuffle.Tests.dll
+C:\Projects\Shuffle\src\Shuffle.Tests\obj\Debug\Shuffle.Tests.pdb
+C:\Projects\Shuffle\src\Shuffle.Tests\bin\Debug\Shuffle.dll
+C:\Projects\Shuffle\src\Shuffle.Tests\bin\Debug\Shuffle.pdb
